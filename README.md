@@ -12,6 +12,8 @@ Spaced repetition is a learning technique that involves reviewing material at st
 
 The system employs a **min-heap data structure** to determine which question should be presented next. The question that has been idle the longest receives the highest priority. Additionally, after viewing a flashcard, users can mark their response as **correct** or **incorrect**. If a question is answered incorrectly, its priority increases, altering the heap to ensure earlier repetition.
 
+![Recallmate UI](frontend/recallmate/public/ui_ss)
+
 ## Tech Stack
 
 As this project originated as a personal initiative, it does not currently include user authentication or multi-user functionality.
