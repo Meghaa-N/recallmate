@@ -2,7 +2,7 @@
 
 This repository contains **Recallmate**, a personal project designed to implement the **Spaced Recognition Study Technique** to aid in long-term memory retention.
 
-## Spaced Recognition
+## Spaced Repitition
 
 Spaced repetition is a learning technique that involves reviewing material at strategic intervals to enhance memory retention. Initially, these intervals are short (e.g., one hour, four hours, one day). As the material is reviewed, the intervals gradually lengthen (e.g., four days, one week, two weeks). This systematic approach ensures that the material is revisited before it is forgotten, reinforcing long-term retention.
 
